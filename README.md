@@ -33,7 +33,8 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 	
 ## Hello, I'm HyunAh 😋
 	
-![image](https://user-images.githubusercontent.com/124337933/230562294-10194543-2b0d-4cc8-b251-6939b9baec30.png)
+![FinishedDeliciousCicada-max-1mb](https://user-images.githubusercontent.com/124337933/230562445-0407eac1-9016-4e24-b348-8eb47481288d.gif)
+
 
 	
 </div>
