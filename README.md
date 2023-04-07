@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?text=hapvpy
-&type=cylinder
-&color=timeGradient
-)
+<!-- 
+text=hapvpy: hapvpy 글자 출력
+type=cylinder : 그림 모양
+color=timeGradient : 시간에 따라 그라데이션 색이 바뀜
+animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
+-->
+![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient&animation=twinkling)
