@@ -18,7 +18,7 @@ type=cylinder : 그림 모양
 color=timeGradient : 시간에 따라 그라데이션 색이 바뀜
 animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 참고사이트 : https://github.com/kyechan99/capsule-render#cylinder
-
+카드옵션 참고사이트 : https://github.com/anuraghazra/github-readme-stats
 
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -45,3 +45,8 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </div>
 
+<br><br>
+			
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapvpy&hide=contribs&show_icons=true&theme=transparent&title_color=FF968A&text_color=9E7EB9&icon_color=FFCC4E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapvpy&layout=compact&hide_border=true&title_color=FF968A)](https://github.com/anuraghazra/github-readme-stats)
