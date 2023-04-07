@@ -26,8 +26,6 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 -->
 
 
-![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient&animation=fadeIn)
-
 <div align="center">
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhapvpy&count_bg=%23FFF6B1&title_bg=%23FF9191&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/hapvpy)
@@ -59,3 +57,8 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapvpy&hide=contribs&show_icons=true&theme=transparent&title_color=FF968A&text_color=9E7EB9&icon_color=FFCC4E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 			
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapvpy&layout=compact&hide_border=true&title_color=FF968A)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient&animation=fadeIn)
+
