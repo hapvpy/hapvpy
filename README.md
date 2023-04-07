@@ -40,6 +40,7 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 
 
 <div align="center">
+	<br>
   🌟 Tech Stack 🌟 <br> <br>
   	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>	
