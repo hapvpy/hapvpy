@@ -30,7 +30,6 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhapvpy&count_bg=%23FFF6B1&title_bg=%23FF9191&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/hapvpy)
 
-<br>
 	
 ## Hello, I'm HyunAh 😋
 	
