@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient)
+![header](https://capsule-render.vercel.app/api?text=hapvpy
+&type=cylinder
+&color=timeGradient
+)
