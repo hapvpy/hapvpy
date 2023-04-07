@@ -20,4 +20,4 @@ type=cylinder : 그림 모양
 color=timeGradient : 시간에 따라 그라데이션 색이 바뀜
 animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 -->
-![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=hapvpy&desc=data%analysis%beginner&type=cylinder&color=timeGradient&animation=fadeIn)
