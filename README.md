@@ -53,12 +53,11 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 </div>
 
 <br>
+
+![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient&animation=fadeIn)
+
+<br>
 	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapvpy&hide=contribs&show_icons=true&theme=transparent&title_color=FF968A&text_color=9E7EB9&icon_color=FFCC4E&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 			
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapvpy&layout=compact&hide_border=true&title_color=FF968A)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![header](https://capsule-render.vercel.app/api?text=hapvpy&type=cylinder&color=timeGradient&animation=fadeIn)
-
