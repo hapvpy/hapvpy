@@ -45,9 +45,7 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 
 <br> <br>
 	
-🦁 멋쟁이 사자처럼 AI SCHOOL 8기 🦁
-	
-## 
+🦁 멋쟁이 사자처럼 AI SCHOOL 8기 🦁 <br><br>
 	
 </div>
 
