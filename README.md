@@ -19,6 +19,7 @@ color=timeGradient : 시간에 따라 그라데이션 색이 바뀜
 animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 참고사이트 : https://github.com/kyechan99/capsule-render#cylinder
 카드옵션 참고사이트 : https://github.com/anuraghazra/github-readme-stats
+언어 아이콘 : https://simpleicons.org/
 
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -43,9 +44,26 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 <div align="center">
 	<br>
   🌟 Tech Stack 🌟 <br> <br>
-  	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>	
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>	
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/> 
+	<br>
+	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+	<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+	<img src="https://img.shields.io/badge/seaborn-005666?style=flat&logo=seaborn&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+	<img src="https://img.shields.io/badge/KoNLPy-3776AB?style=flat&logo=konlpy&logoColor=white"/>
+	<br><br>
+	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> 
 
 <br> <br>
 	
