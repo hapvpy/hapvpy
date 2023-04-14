@@ -75,6 +75,6 @@ animation=fadeIn : 페이드인 1.2초 (반짝이는 twinkling)
 
 <br>
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapvpy&hide=contribs&show_icons=true&theme=transparent&title_color=FF968A&text_color=97C1A9&icon_color=9E7EB9&hide_border=true)] <br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapvpy&hide=contribs&show_icons=true&theme=transparent&title_color=FF968A&text_color=97C1A9&icon_color=9E7EB9&hide_border=true) <br><br>
 			
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapvpy&layout=compact&hide_border=true&title_color=FF968A)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hapvpy&layout=compact&hide_border=true&title_color=FF968A)
